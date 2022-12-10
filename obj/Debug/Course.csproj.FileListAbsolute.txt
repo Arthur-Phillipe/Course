@@ -1,0 +1,11 @@
+C:\CsWS\Course\bin\Debug\Course.exe.config
+C:\CsWS\Course\bin\Debug\Course.exe
+C:\CsWS\Course\bin\Debug\Course.pdb
+C:\CsWS\Course\bin\Debug\ArtSofLibrary.dll
+C:\CsWS\Course\bin\Debug\ArtSofLibrary.pdb
+C:\CsWS\Course\obj\Debug\Course.csproj.AssemblyReference.cache
+C:\CsWS\Course\obj\Debug\Course.csproj.SuggestedBindingRedirects.cache
+C:\CsWS\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
+C:\CsWS\Course\obj\Debug\Course.csproj.CopyComplete
+C:\CsWS\Course\obj\Debug\Course.exe
+C:\CsWS\Course\obj\Debug\Course.pdb
