@@ -33,8 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="ArtSofLibrary">
-      <HintPath>..\ArtSofLibrary\bin\Debug\ArtSofLibrary.dll</HintPath>
+    <Reference Include="ArtSofLibrary, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Libraries\ArtSoftLibrary\ArtSofLibrary.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
