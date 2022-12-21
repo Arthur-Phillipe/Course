@@ -13,3 +13,6 @@ git push -u origin main
 git remote add origin git@github.com:Arthur-Phillipe/Course.git
 git branch -M main
 git push -u origin main
+
+# para clonar um repositório, abrir o gitbash no diretório pai, e dar o comando abaixo
+  git clone git@github.com:acenelio/aulagithub.git
